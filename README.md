@@ -5,11 +5,11 @@
 
 ## Guia de execução no terminal
 
-- git clone https://github.com/MariaGabrielaMello/PL-Tec-I-Atv-IV.git
+- git clone https://github.com/MariaGabrielaMello/Atlantis-Tec-II-Atv-I.git
 
 Após clonar o projeto, executar no terminal:
 
 - npm install
 - npx tsc
--  node .\js\teste\index.js
+- node .\js\teste\index.js
   
